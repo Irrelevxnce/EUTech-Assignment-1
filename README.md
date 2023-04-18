@@ -21,7 +21,7 @@ ________________________________________________________________________________
 1. Download VirtualBox from [The Official VirtualBox website](https://www.virtualbox.org/wiki/Downloads) and [start the program when downloaded](https://user-images.githubusercontent.com/98554249/232751851-efe02c11-50f4-4c75-bf10-3e257530e29f.png)
 2. Download a Microsoft Windows ISO from [Microsoft's Website](https://www.microsoft.com/pl-pl/software-download/windows10)
 
-##### _I downloaded an .OVA file which contains the tools necessary for the task, therefore I have skipped steps 3, 4, 5, 6 and 7 and replaced them with the process of importing said file._
+##### _I downloaded an .OVA file which contains the tools necessary for the task as well as VirtualBox's host drivers, therefore I have skipped steps 3, 4, 5, 6 and 7 and replaced them with the process of importing said file._
 
 3. Import the ova by pressing the [import button](https://user-images.githubusercontent.com/98554249/232754384-d2256055-4fbd-4bc7-afde-ef8b2724c0bd.png)
 4. Follow the [steps](https://user-images.githubusercontent.com/98554249/232755274-39c879e1-5281-4d50-8735-962446915130.png) provided by the VirtualBox Assistant
