@@ -1,4 +1,4 @@
-# EUTech-Assignment-1
+# EUTech-Assignment-1 - Includes screenshots of the process so as to avoid uploading very large files over the limited network that is in use.
 First assignment for software dev internship at EUTech engineers.
 _________________________________________________________________________________________________________________________________________________________________________
 ### Objective: To gain a fundamental understanding of operating systems by installing and configuring a virtual machine with Windows OS.
