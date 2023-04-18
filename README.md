@@ -21,9 +21,13 @@ ________________________________________________________________________________
 1. Download VirtualBox from [The Official VirtualBox website](https://www.virtualbox.org/wiki/Downloads) and [start the program when downloaded](https://user-images.githubusercontent.com/98554249/232751851-efe02c11-50f4-4c75-bf10-3e257530e29f.png)
 2. Download a Microsoft Windows ISO from [Microsoft's Website](https://www.microsoft.com/pl-pl/software-download/windows10)
 
-_I downloaded an .OVA file which contains the tools necessary for the task, therefore I have skipped steps 3, 4, 5, 6 and 7 and replaced them with the process of importing said file._
+##### _I downloaded an .OVA file which contains the tools necessary for the task, therefore I have skipped steps 3, 4, 5, 6 and 7 and replaced them with the process of importing said file._
 
 3. Import the ova by pressing the [import button](https://user-images.githubusercontent.com/98554249/232754384-d2256055-4fbd-4bc7-afde-ef8b2724c0bd.png)
 4. Follow the [steps](https://user-images.githubusercontent.com/98554249/232755274-39c879e1-5281-4d50-8735-962446915130.png) provided by the VirtualBox Assistant
 5. Check [the specifications of the virtual machine](https://user-images.githubusercontent.com/98554249/232755549-e399eaf6-2fe1-458a-a27d-d8c7d0d68ce6.png) before continuing
 6. Once the virtual machine has been successfully imported, we can move on to the tests.
+7. I have performed several tests, such as running [Microsoft Visual Studio](https://user-images.githubusercontent.com/98554249/232759237-287a707d-5899-412d-a4f1-22bed8493b32.png) and the virtual machine runs perfectly.
+
+
+Bonus Step: It's possible to dual boot a virtual machine using a lightweight GNU distribution such as [Lubuntu's Desktop Environment (LXDE)](https://lubuntu.me/downloads/) for usage on top of a previously installed OS like Windows. However, this approach is realistically only viable for test purposes as the process of creating a virtual machine specifically for the lightweight OS is trivial.
